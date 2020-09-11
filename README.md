@@ -8,3 +8,6 @@ decisão
 repetição
 
 O Eclipse utilizado foi o 19
+
+JAVA  SE => para dev em desktop
+Java EE  => para dev em Web
